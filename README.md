@@ -14,6 +14,7 @@ Health Information Technology (HIT) Adaptation: Refocusing on the Journey to Suc
   <li> Extensions of Temporal Representations for Ontology-based and Holistic Reasoning in the Mobile Quality of Life Domain https://cordis.europa.eu/project/id/101024693 </li> 
  
  <li> Identification of Medicinal Products  https://www.idmp1.com/ </li> 
+ <li>  Telemonitoring and continuity of care for older adults: comparing experience an identifying common solutions https://ec.europa.eu/eip/ageing/news/telemonitoring-and-continuity-care-older-adults-comparing-experience-identifying-common_en.html </li> 
 </ul>
 SNOMED-CT owl file created using snowed-owl-toolkit
 
