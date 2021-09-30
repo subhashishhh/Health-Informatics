@@ -17,7 +17,7 @@ Health Information Technology (HIT) Adaptation: Refocusing on the Journey to Suc
  <li>  Telemonitoring and continuity of care for older adults: comparing experience an identifying common solutions https://ec.europa.eu/eip/ageing/news/telemonitoring-and-continuity-care-older-adults-comparing-experience-identifying-common_en.html </li> 
  
   <li> The Sandbox Approach and its Potential for Use in Health Technology Assessment: A Literature Review https://link.springer.com/article/10.1007/s40258-021-00665-1 </li> 
- 
+ <li> The need for data integration in healthcare systems – the iHelp approach https://ihelp-project.eu/data-integration-need-healthcare-systems/ </li> 
  
  <li> HSE-Ireland Action Plan for Health Research 2019–2029 https://hseresearch.ie/wp-content/uploads/2019/12/10-Year-Action-Plan.pdf </li> 
 </ul>
