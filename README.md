@@ -20,8 +20,10 @@ Health Information Technology (HIT) Adaptation: Refocusing on the Journey to Suc
  <li> The need for data integration in healthcare systems – the iHelp approach https://ihelp-project.eu/data-integration-need-healthcare-systems/ </li> 
  
  <li> HSE-Ireland Action Plan for Health Research 2019–2029 https://hseresearch.ie/wp-content/uploads/2019/12/10-Year-Action-Plan.pdf </li> 
-</ul>
-SNOMED-CT owl file created using snowed-owl-toolkit
+ 
+ <li> Meaningful Integration of Data from Heterogeneous Health Services and Home Environment Based on Ontology https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6515291/
+</li> 
+ <li> SNOMED-CT owl file created using snowed-owl-toolkit
 
 For latest snowed-OWL file check Bioportal 
-https://bioportal.bioontology.org/ontologies/SNOMEDCT 
+https://bioportal.bioontology.org/ontologies/SNOMEDCT </li>  </ul>
