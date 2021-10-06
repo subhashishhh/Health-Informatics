@@ -26,4 +26,6 @@ Health Information Technology (HIT) Adaptation: Refocusing on the Journey to Suc
  <li> SNOMED-CT owl file created using snowed-owl-toolkit
 
 For latest snowed-OWL file check Bioportal 
-https://bioportal.bioontology.org/ontologies/SNOMEDCT </li>  </ul>
+https://bioportal.bioontology.org/ontologies/SNOMEDCT </li>  
+<li> HL7 FHIR OMOP Workshop
+https://vimeo.com/618192165/bf7267b923 </li>  </ul>
