@@ -27,5 +27,7 @@ Health Information Technology (HIT) Adaptation: Refocusing on the Journey to Suc
 
 For latest snowed-OWL file check Bioportal 
 https://bioportal.bioontology.org/ontologies/SNOMEDCT </li>  
+  <li> SNOMED-CT Expression Constraint Language https://confluence.ihtsdotools.org/display/DOCECL/6.1+Simple+Expression+Constraints </li>
+ <li>The SNOMED CT Browser search Tutorial https://www.youtube.com/watch?v=suM6y0lrcdA </li>
 <li> HL7 FHIR OMOP Workshop
 https://vimeo.com/618192165/bf7267b923 </li>  </ul>
