@@ -30,4 +30,7 @@ https://bioportal.bioontology.org/ontologies/SNOMEDCT </li>
   <li> SNOMED-CT Expression Constraint Language https://confluence.ihtsdotools.org/display/DOCECL/6.1+Simple+Expression+Constraints </li>
  <li>The SNOMED CT Browser search Tutorial https://www.youtube.com/watch?v=suM6y0lrcdA </li>
 <li> HL7 FHIR OMOP Workshop
-https://vimeo.com/618192165/bf7267b923 </li>  </ul>
+https://vimeo.com/618192165/bf7267b923 </li> 
+<li> Healthcare API and FHIR best practices https://www.youtube.com/watch?v=XkshcRvHhqg </li>
+ <li>  Health & APIs Google Cloud https://www.youtube.com/watch?v=o_1K6k0sxOQ </li>
+</ul>
