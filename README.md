@@ -20,6 +20,7 @@ Health Information Technology (HIT) Adaptation: Refocusing on the Journey to Suc
  <li> The need for data integration in healthcare systems – the iHelp approach https://ihelp-project.eu/data-integration-need-healthcare-systems/ </li> 
  
  <li> HSE-Ireland Action Plan for Health Research 2019–2029 https://hseresearch.ie/wp-content/uploads/2019/12/10-Year-Action-Plan.pdf </li> 
+  <li> How better use of data can help address key challenges facing the NHS https://www.health.org.uk/publications/long-reads/how-better-use-of-data-can-help-address-key-challenges-facing-the-nhs# </li> 
  
  <li> Meaningful Integration of Data from Heterogeneous Health Services and Home Environment Based on Ontology https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6515291/
 </li> 
