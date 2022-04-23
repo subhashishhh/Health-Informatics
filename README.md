@@ -36,4 +36,5 @@ https://vimeo.com/618192165/bf7267b923 </li>
 <li> Healthcare API and FHIR best practices https://www.youtube.com/watch?v=XkshcRvHhqg </li>
  <li>  Health & APIs Google Cloud https://www.youtube.com/watch?v=o_1K6k0sxOQ </li>
  <li> FHIR JSON-LD Playground https://fhircat.org/jsonld/playground/ </li>
+ <li> FHIR Intermediate - Introduction to Profiles https://www.youtube.com/watch?v=-e5B29npIPM </li>
 </ul>
