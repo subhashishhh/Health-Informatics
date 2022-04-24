@@ -39,4 +39,8 @@ https://vimeo.com/618192165/bf7267b923 </li>
  <li>  Health & APIs Google Cloud https://www.youtube.com/watch?v=o_1K6k0sxOQ </li>
  <li> FHIR JSON-LD Playground https://fhircat.org/jsonld/playground/ </li>
  <li> FHIR Intermediate - Introduction to Profiles https://www.youtube.com/watch?v=-e5B29npIPM </li>
+ 
+ 
+ <h2> OpenEHR </h2>
+ <li> Openehr clinical decision support presentation 2020v https://www.youtube.com/watch?v=YmRljwBj5S0 </li>
 </ul>
