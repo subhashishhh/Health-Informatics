@@ -42,5 +42,5 @@ https://vimeo.com/618192165/bf7267b923 </li>
  
  
  <h2> OpenEHR </h2>
- <li> Openehr clinical decision support presentation 2020v https://www.youtube.com/watch?v=YmRljwBj5S0 </li>
+ <li> Openehr clinical decision support presentation (2020) https://www.youtube.com/watch?v=YmRljwBj5S0 </li>
 </ul>
