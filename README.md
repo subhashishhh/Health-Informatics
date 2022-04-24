@@ -5,6 +5,8 @@
 Health Information Technology (HIT) Adaptation: Refocusing on the Journey to Successful HIT Implementation https://medinform.jmir.org/2017/3/e28/ </li>
 <li>e-Health in France: Spotlight on the National Healthcare Digitalization Strategy https://healthadvancesblog.com/2020/03/24/e-health-in-france/      </li>
 <li> IBM-What is interoperability in healthcare? https://www.ibm.com/nl-en/topics/interoperability-in-healthcare </li>
+ 
+ <li> Interface of Inference Models with Concept and Medical Record Models https://link.springer.com/content/pdf/10.1007/3-540-48229-6_43.pdf </li>
 <li> EHEALTH HUB BLOG Interoperability in Healthcare Systems https://www.ehcos.com/en/interoperability-in-healthcare-systems-successes-and-new-challenges-to-value-based-healthcare-management/ </li> 
  
  <li> 18th International HL7 Interoperability Conference (IHIC 2018) https://www.ejbi.org/downloads/EJBI_3_2018.pdf </li> 
